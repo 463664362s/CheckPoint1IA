@@ -1,7 +1,6 @@
 # CheckPoint1 IA
 
-**integrantes: João Victor Deziderio
-Nathan Pagliari** 
+**integrantes: João Victor Deziderio e Nathan Pagliari**  
 
 **Turma: 2TDSF**
 
